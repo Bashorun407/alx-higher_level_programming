@@ -44,6 +44,8 @@ Your code should use the pycodestyle (version 2.8.*)
 All your files must be executable
 The length of your files will be tested using wc
 Tasks
+
+
 0. Safe list printing
 mandatory
 Write a function that prints x elements of a list.
@@ -83,6 +85,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 0-safe_print_list.py
+
   
 1. Safe printing of an integers list
 mandatory
@@ -126,6 +129,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 1-safe_print_integer.py
+
   
 2. Print and count integers
 mandatory
@@ -175,6 +179,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 2-safe_print_list_integers.py
+
   
 3. Integers division with debug
 mandatory
@@ -212,6 +217,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 3-safe_print_division.py
+
   
 4. Divide a list
 mandatory
@@ -259,6 +265,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 4-list_division.py
+
   
 5. Raise exception
 mandatory
@@ -283,6 +290,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 5-raise_exception.py
+
   
 6. Raise a message
 mandatory
