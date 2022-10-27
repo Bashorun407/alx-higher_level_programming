@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""11-student Module"""
+"""10-student module"""
 
 
 class Student:
@@ -26,8 +26,3 @@ class Student:
             return my_dict
 
         return vars(self)
-
-    def reload_from_json(self, json):
-        """replace all attributes of the student instance"""
-        for key in json:
-            setattr(self, key, json[key])
