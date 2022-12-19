@@ -54,3 +54,4 @@ class Square:
     def __le__(self, other):
         """define <= to compare with current square area"""
         return self.area() <= other.area()
+
